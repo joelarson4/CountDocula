@@ -1,6 +1,6 @@
 #Count Docula ᗑⓦᗑ
 
-##I vant to make Markdown out of your JavaScript documentation, AH AH AH!
+##I vant to make Markdown from your JavaScript documentation, AH AH AH!
 
 This repo is a placeholder at the moment.  I would like to create a tool that would make it easy to turn JSDoc-like comments in JavaScript into GitHub friendly Markdown.  For example, a JavaScript file containing:
 
